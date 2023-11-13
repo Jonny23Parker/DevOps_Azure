@@ -1,4 +1,6 @@
-# Projetos do curso Aula Devops Fundamentals - "Work in Progress"
+# Projetos do curso Aula Devops Fundamentals 
+
+"Work in Progress"
 
 codigoTerraform: recurso Terraform para a criação no Azure
 
